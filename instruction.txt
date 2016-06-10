@@ -1,0 +1,5 @@
+instructions
+
+project - is the main function
+feature_developer - develops feature structure for spectral flux, spectral centroid, spectral roll off, zero crossing, autocorrelation, standard deviation and short time energy
+form_training_sets - develops feature structure for mfcc
